@@ -1,3 +1,3 @@
-import Vuellery from 'Vuellery.vue';
+import Vuellery from './Vuellery.vue';
 
 export default Vuellery;
